@@ -10,7 +10,19 @@
 				"E:/Travail/ProjectUnreal/GitUnreal/PlanteAlienGameJam/PlanteAlienGameJam/Content/VehicleTemplate/Blueprints/SportsCar/SportsCar_WheelsRear.uasset",
 				"E:/Travail/ProjectUnreal/GitUnreal/PlanteAlienGameJam/PlanteAlienGameJam/Content/VehicleTemplate/Blueprints/SportsCar/SportsCar_Pawn.uasset",
 				"E:/Travail/ProjectUnreal/GitUnreal/PlanteAlienGameJam/PlanteAlienGameJam/Content/VehicleTemplate/Blueprints/SportsCar/SportsCar_TorqueCurve.uasset",
-				"E:/Travail/ProjectUnreal/GitUnreal/PlanteAlienGameJam/PlanteAlienGameJam/Content/VehicleTemplate/Input/IMC_Default.uasset"
+				"E:/Travail/ProjectUnreal/GitUnreal/PlanteAlienGameJam/PlanteAlienGameJam/Content/VehicleTemplate/Input/IMC_Default.uasset",
+				"E:/Travail/ProjectUnreal/GitUnreal/PlanteAlienGameJam/PlanteAlienGameJam/Content/StarterContent/Audio/Collapse01.uasset",
+				"E:/Travail/ProjectUnreal/GitUnreal/PlanteAlienGameJam/PlanteAlienGameJam/Content/VehicleTemplate/Blueprints/OffroadCar/OffroadCar_Pawn.uasset",
+				"E:/Travail/ProjectUnreal/GitUnreal/PlanteAlienGameJam/PlanteAlienGameJam/Content/__ExternalActors__/VehicleTemplate/Maps/VehicleOffroadExampleMap/C/4X/TFUEUCY1IFT2LEF8SGF0FC.uasset",
+				"E:/Travail/ProjectUnreal/GitUnreal/PlanteAlienGameJam/PlanteAlienGameJam/Content/__ExternalActors__/VehicleTemplate/Maps/VehicleOffroadExampleMap/D/5D/3ESC50ZOSZICNR5FVRAHMQ.uasset",
+				"E:/Travail/ProjectUnreal/GitUnreal/PlanteAlienGameJam/PlanteAlienGameJam/Content/__ExternalActors__/VehicleTemplate/Maps/VehicleOffroadExampleMap/1/98/M2D80SQDTFQXJL08IA9Y2B.uasset",
+				"E:/Travail/ProjectUnreal/GitUnreal/PlanteAlienGameJam/PlanteAlienGameJam/Content/VehicleTemplate/Blueprints/SportsCar/IA.uasset",
+				"E:/Travail/ProjectUnreal/GitUnreal/PlanteAlienGameJam/PlanteAlienGameJam/Content/Thomas_Folder/3D_Model/08_-_Default.uasset",
+				"E:/Travail/ProjectUnreal/GitUnreal/PlanteAlienGameJam/PlanteAlienGameJam/Content/Thomas_Folder/3D_Model/alien_rig_skin_et_deplier_sa_mere.uasset",
+				"E:/Travail/ProjectUnreal/GitUnreal/PlanteAlienGameJam/PlanteAlienGameJam/Content/Thomas_Folder/3D_Model/alien_rig_skin_et_deplier_sa_mere_PhysicsAsset.uasset",
+				"E:/Travail/ProjectUnreal/GitUnreal/PlanteAlienGameJam/PlanteAlienGameJam/Content/Thomas_Folder/3D_Model/alien_rig_skin_et_deplier_sa_mere_Skeleton.uasset",
+				"E:/Travail/ProjectUnreal/GitUnreal/PlanteAlienGameJam/PlanteAlienGameJam/Content/Thomas_Folder/3D_Model/default.uasset",
+				"E:/Travail/ProjectUnreal/GitUnreal/PlanteAlienGameJam/PlanteAlienGameJam/Content/__ExternalActors__/VehicleTemplate/Maps/VehicleOffroadExampleMap/2/A2/VXET9GQDYPDM2E7543SE9V.uasset"
 			]
 		}
 	]
