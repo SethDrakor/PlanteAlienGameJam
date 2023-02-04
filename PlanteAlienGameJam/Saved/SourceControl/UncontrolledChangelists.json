@@ -5,7 +5,12 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
-				"E:/Travail/ProjectUnreal/GitUnreal/PlanteAlienGameJam/PlanteAlienGameJam/Content/StarterContent/Architecture/Floor_400x400.uasset"
+				"E:/Travail/ProjectUnreal/GitUnreal/PlanteAlienGameJam/PlanteAlienGameJam/Content/StarterContent/Architecture/Floor_400x400.uasset",
+				"E:/Travail/ProjectUnreal/GitUnreal/PlanteAlienGameJam/PlanteAlienGameJam/Content/VehicleTemplate/Blueprints/SportsCar/SportsCar_WheelsFront.uasset",
+				"E:/Travail/ProjectUnreal/GitUnreal/PlanteAlienGameJam/PlanteAlienGameJam/Content/VehicleTemplate/Blueprints/SportsCar/SportsCar_WheelsRear.uasset",
+				"E:/Travail/ProjectUnreal/GitUnreal/PlanteAlienGameJam/PlanteAlienGameJam/Content/VehicleTemplate/Blueprints/SportsCar/SportsCar_Pawn.uasset",
+				"E:/Travail/ProjectUnreal/GitUnreal/PlanteAlienGameJam/PlanteAlienGameJam/Content/VehicleTemplate/Blueprints/SportsCar/SportsCar_TorqueCurve.uasset",
+				"E:/Travail/ProjectUnreal/GitUnreal/PlanteAlienGameJam/PlanteAlienGameJam/Content/VehicleTemplate/Input/IMC_Default.uasset"
 			]
 		}
 	]
